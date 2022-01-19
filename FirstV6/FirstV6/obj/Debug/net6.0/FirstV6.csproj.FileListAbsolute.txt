@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\bin\Debug\net6.0\FirstV6.exe
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\bin\Debug\net6.0\FirstV6.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\bin\Debug\net6.0\FirstV6.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\bin\Debug\net6.0\FirstV6.dll
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\bin\Debug\net6.0\ref\FirstV6.dll
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\bin\Debug\net6.0\FirstV6.pdb
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.dll
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\ref\FirstV6.dll
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.pdb
+C:\Users\jaime\Desktop\WOZ-U\C#\FirstV6\FirstV6\obj\Debug\net6.0\FirstV6.genruntimeconfig.cache
