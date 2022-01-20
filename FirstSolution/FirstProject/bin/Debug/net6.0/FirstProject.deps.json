@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FirstProject/1.0.0": {
+        "dependencies": {
+          "Two": "1.0.0"
+        },
+        "runtime": {
+          "FirstProject.dll": {}
+        }
+      },
+      "Two/1.0.0": {
+        "runtime": {
+          "Two.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Two/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

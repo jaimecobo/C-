@@ -1,0 +1,12 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\bin\Debug\net6.0\Two.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\bin\Debug\net6.0\Two.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\bin\Debug\net6.0\ref\Two.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\bin\Debug\net6.0\Two.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\Two.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\Two.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\Two.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\Two.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\Two.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\ref\Two.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\FirstSolution\Two\obj\Debug\net6.0\Two.pdb
