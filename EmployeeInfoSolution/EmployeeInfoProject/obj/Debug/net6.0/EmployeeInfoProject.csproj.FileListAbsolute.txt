@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\bin\Debug\net6.0\EmployeeInfoProject.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\bin\Debug\net6.0\EmployeeInfoProject.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\bin\Debug\net6.0\EmployeeInfoProject.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\bin\Debug\net6.0\EmployeeInfoProject.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\bin\Debug\net6.0\ref\EmployeeInfoProject.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\bin\Debug\net6.0\EmployeeInfoProject.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\ref\EmployeeInfoProject.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeeInfoSolution\EmployeeInfoProject\obj\Debug\net6.0\EmployeeInfoProject.genruntimeconfig.cache
