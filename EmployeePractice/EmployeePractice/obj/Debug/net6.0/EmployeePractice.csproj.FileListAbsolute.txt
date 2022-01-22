@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\bin\Debug\net6.0\EmployeePractice.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\bin\Debug\net6.0\EmployeePractice.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\bin\Debug\net6.0\EmployeePractice.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\bin\Debug\net6.0\EmployeePractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\bin\Debug\net6.0\ref\EmployeePractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\bin\Debug\net6.0\EmployeePractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\ref\EmployeePractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\EmployeePractice\EmployeePractice\obj\Debug\net6.0\EmployeePractice.genruntimeconfig.cache
