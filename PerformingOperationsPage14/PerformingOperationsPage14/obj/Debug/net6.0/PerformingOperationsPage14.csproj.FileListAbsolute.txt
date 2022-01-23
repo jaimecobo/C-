@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\bin\Debug\net6.0\PerformingOperationsPage14.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\bin\Debug\net6.0\PerformingOperationsPage14.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\bin\Debug\net6.0\PerformingOperationsPage14.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\bin\Debug\net6.0\PerformingOperationsPage14.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\bin\Debug\net6.0\ref\PerformingOperationsPage14.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\bin\Debug\net6.0\PerformingOperationsPage14.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\ref\PerformingOperationsPage14.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\PerformingOperationsPage14\PerformingOperationsPage14\obj\Debug\net6.0\PerformingOperationsPage14.genruntimeconfig.cache
