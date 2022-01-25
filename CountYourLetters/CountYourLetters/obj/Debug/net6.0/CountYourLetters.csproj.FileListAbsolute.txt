@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\bin\Debug\net6.0\ref\CountYourLetters.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\bin\Debug\net6.0\CountYourLetters.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\ref\CountYourLetters.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\CountYourLetters\CountYourLetters\obj\Debug\net6.0\CountYourLetters.genruntimeconfig.cache
