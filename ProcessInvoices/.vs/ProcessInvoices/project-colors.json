@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9ea2640-9785-4655-bd06-3160b4e6339f": {
+      "ProjectGuid": "b9ea2640-9785-4655-bd06-3160b4e6339f",
+      "DisplayName": "ProcessInvoices",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
