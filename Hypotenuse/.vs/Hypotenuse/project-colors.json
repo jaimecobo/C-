@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a75641db-657b-4f7b-a263-da3b0ed351b6": {
+      "ProjectGuid": "a75641db-657b-4f7b-a263-da3b0ed351b6",
+      "DisplayName": "Hypotenuse",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

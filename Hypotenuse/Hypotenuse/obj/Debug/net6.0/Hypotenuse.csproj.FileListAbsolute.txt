@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\bin\Debug\net6.0\ref\Hypotenuse.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\bin\Debug\net6.0\Hypotenuse.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\ref\Hypotenuse.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Hypotenuse\Hypotenuse\obj\Debug\net6.0\Hypotenuse.genruntimeconfig.cache
