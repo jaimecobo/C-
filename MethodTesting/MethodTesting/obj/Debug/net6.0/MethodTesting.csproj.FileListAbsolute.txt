@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\bin\Debug\net6.0\ref\MethodTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\ref\MethodTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.genruntimeconfig.cache

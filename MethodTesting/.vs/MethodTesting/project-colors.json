@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42814105-4991-490e-9b63-7866e34f7b7f": {
+      "ProjectGuid": "42814105-4991-490e-9b63-7866e34f7b7f",
+      "DisplayName": "MethodTesting",
+      "ColorIndex": 0
+    },
+    "2ab90125-449a-4de2-8e18-ac37320a86ae": {
+      "ProjectGuid": "2ab90125-449a-4de2-8e18-ac37320a86ae",
+      "DisplayName": "SumIntegers",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
