@@ -1,0 +1,14 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\bin\Debug\net6.0\SalesTrackerCSV.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\bin\Debug\net6.0\SalesTrackerCSV.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\bin\Debug\net6.0\SalesTrackerCSV.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\bin\Debug\net6.0\SalesTrackerCSV.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\bin\Debug\net6.0\ref\SalesTrackerCSV.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\bin\Debug\net6.0\SalesTrackerCSV.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\SalesTrackerCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\SalesTrackerCSV.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\SalesTrackerCSV.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\SalesTrackerCSV.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\SalesTrackerCSV.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\ref\SalesTrackerCSV.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\SalesTrackerCSV.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTrackerCSV\SalesTrackerCSV\obj\Debug\net6.0\SalesTrackerCSV.genruntimeconfig.cache
