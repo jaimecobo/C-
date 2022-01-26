@@ -1,0 +1,14 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\bin\Debug\net6.0\SalesTracker.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\bin\Debug\net6.0\SalesTracker.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\bin\Debug\net6.0\SalesTracker.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\bin\Debug\net6.0\SalesTracker.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\bin\Debug\net6.0\ref\SalesTracker.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\bin\Debug\net6.0\SalesTracker.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\SalesTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\SalesTracker.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\SalesTracker.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\SalesTracker.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\SalesTracker.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\ref\SalesTracker.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\SalesTracker.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\SalesTracker\SalesTracker\obj\Debug\net6.0\SalesTracker.genruntimeconfig.cache

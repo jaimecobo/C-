@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4eb53287-4457-40a1-ab9f-7b49612fd8bf": {
+      "ProjectGuid": "4eb53287-4457-40a1-ab9f-7b49612fd8bf",
+      "DisplayName": "SalesTracker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
