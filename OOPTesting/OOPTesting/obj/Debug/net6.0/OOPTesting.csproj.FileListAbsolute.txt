@@ -1,0 +1,5 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\OOPTesting\OOPTesting\obj\Debug\net6.0\OOPTesting.csproj.CoreCompileInputs.cache
