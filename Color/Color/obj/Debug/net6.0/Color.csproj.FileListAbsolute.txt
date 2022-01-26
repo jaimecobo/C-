@@ -1,0 +1,4 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Color\Color\obj\Debug\net6.0\Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Color\Color\obj\Debug\net6.0\Color.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Color\Color\obj\Debug\net6.0\Color.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Color\Color\obj\Debug\net6.0\Color.csproj.CoreCompileInputs.cache
