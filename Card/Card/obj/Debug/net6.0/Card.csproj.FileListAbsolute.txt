@@ -1,0 +1,5 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Card\Card\obj\Debug\net6.0\Card.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Card\Card\obj\Debug\net6.0\Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Card\Card\obj\Debug\net6.0\Card.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Card\Card\obj\Debug\net6.0\Card.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\Card\Card\obj\Debug\net6.0\Card.csproj.CoreCompileInputs.cache
