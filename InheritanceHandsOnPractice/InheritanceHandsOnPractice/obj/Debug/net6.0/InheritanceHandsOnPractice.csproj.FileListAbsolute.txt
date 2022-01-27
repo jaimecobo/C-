@@ -1,0 +1,14 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\bin\Debug\net6.0\InheritanceHandsOnPractice.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\bin\Debug\net6.0\InheritanceHandsOnPractice.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\bin\Debug\net6.0\InheritanceHandsOnPractice.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\bin\Debug\net6.0\InheritanceHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\bin\Debug\net6.0\ref\InheritanceHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\bin\Debug\net6.0\InheritanceHandsOnPractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\InheritanceHandsOnPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\InheritanceHandsOnPractice.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\InheritanceHandsOnPractice.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\InheritanceHandsOnPractice.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\InheritanceHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\ref\InheritanceHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\InheritanceHandsOnPractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InheritanceHandsOnPractice\InheritanceHandsOnPractice\obj\Debug\net6.0\InheritanceHandsOnPractice.genruntimeconfig.cache
