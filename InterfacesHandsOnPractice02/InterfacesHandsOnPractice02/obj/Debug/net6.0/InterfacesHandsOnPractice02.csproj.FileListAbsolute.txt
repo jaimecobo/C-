@@ -1,0 +1,14 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\bin\Debug\net6.0\InterfacesHandsOnPractice02.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\bin\Debug\net6.0\InterfacesHandsOnPractice02.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\bin\Debug\net6.0\InterfacesHandsOnPractice02.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\bin\Debug\net6.0\InterfacesHandsOnPractice02.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\bin\Debug\net6.0\ref\InterfacesHandsOnPractice02.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\bin\Debug\net6.0\InterfacesHandsOnPractice02.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\InterfacesHandsOnPractice02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\InterfacesHandsOnPractice02.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\InterfacesHandsOnPractice02.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\InterfacesHandsOnPractice02.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\InterfacesHandsOnPractice02.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\ref\InterfacesHandsOnPractice02.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\InterfacesHandsOnPractice02.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\InterfacesHandsOnPractice02\InterfacesHandsOnPractice02\obj\Debug\net6.0\InterfacesHandsOnPractice02.genruntimeconfig.cache
