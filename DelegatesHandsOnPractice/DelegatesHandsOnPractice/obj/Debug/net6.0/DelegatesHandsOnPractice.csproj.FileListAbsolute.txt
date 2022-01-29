@@ -1,0 +1,14 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\bin\Debug\net6.0\DelegatesHandsOnPractice.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\bin\Debug\net6.0\DelegatesHandsOnPractice.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\bin\Debug\net6.0\DelegatesHandsOnPractice.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\bin\Debug\net6.0\DelegatesHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\bin\Debug\net6.0\ref\DelegatesHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\bin\Debug\net6.0\DelegatesHandsOnPractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\DelegatesHandsOnPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\DelegatesHandsOnPractice.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\DelegatesHandsOnPractice.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\DelegatesHandsOnPractice.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\DelegatesHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\ref\DelegatesHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\DelegatesHandsOnPractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\DelegatesHandsOnPractice\DelegatesHandsOnPractice\obj\Debug\net6.0\DelegatesHandsOnPractice.genruntimeconfig.cache
