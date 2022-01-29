@@ -65,6 +65,7 @@ Dictionary<String, List<string>> dic = new Dictionary<string, List<string>>();
 
 */
 
+using System.Linq;
 public class TaxRecord
 {
     public string statecode;
@@ -153,45 +154,57 @@ class taxCalculator
         reader.Close();
     }
 
-
-
-    // create a static method (ComputeTaxFor)  to return the computed tax given a state and income
-    //  use the state as a key to find the list of taxrecords for that state
-    //   throw an exception if the state is not found.
-    //   otherwise use the list to compute the taxes
-    public decimal ComputeTaxFor(string stateAbv, decimal incomeEarned)
+    public decimal ComputeTaxFor(string stateAbv, decimal incomeEarned, bool verbose)
     {
-        foreach(string statecode in taxRecords.Keys)
+        if (verbose)
+        {
+            Console.WriteLine($"  --------------------------------------------------------------------------------------------------------");
+            Console.WriteLine($" {"| Your total income is = ",25} {incomeEarned, 12}{"                                                    |", 68}");  
+            Console.WriteLine(" |--------------------------------------------------------------------------------------------------------|"); 
+        }
+        decimal finalComputedTax = 0m;
+
+        foreach (string statecode in taxRecords.Keys)
         {
             if (!taxRecords.ContainsKey(stateAbv))
             {
                 throw new Exception($"There is no record for state '{stateAbv}' \n");
             }
-            foreach(TaxRecord r in taxRecords[statecode])
+            foreach (TaxRecord r in taxRecords[statecode])
             {
-                if(r.statecode == stateAbv)
+                if (r.statecode == stateAbv)
                 {
-                    if(incomeEarned < r.floorRate)
+                    //Console.WriteLine($"{r.statecode}");
+                    //Console.WriteLine($"{r.statecode} - {r.floorRate,10} - {r.ceilingRate,10} - {r.taxRate, 10}");
+                    if(incomeEarned >= r.ceilingRate)
                     {
-                        Console.WriteLine(r.floorRate);
-                        Console.WriteLine($"Your income of {incomeEarned} is bellow {stateAbv} state's floor rate, that is {r.floorRate} \n");
-                        //return 1.00m;
-                       
+                        finalComputedTax += (r.ceilingRate - r.floorRate) * r.taxRate;
+                        if (verbose)
+                        {
+                            Console.WriteLine($" | {r.ceilingRate, 12} {"-", 4} {r.floorRate, 12} {"=", 4} {r.ceilingRate - r.floorRate, 12} {"  tax due for this income portion =", 36} {finalComputedTax, 15}  |");
+                        }
+                        continue;
                     }
-                    if(incomeEarned >= r.floorRate)
-                    {
 
+                    if (incomeEarned > r.floorRate && incomeEarned < r.ceilingRate)
+                    {
+                        finalComputedTax += (incomeEarned - r.floorRate) * r.taxRate;
+                        if (verbose)
+                        {
+                            Console.WriteLine($" | {incomeEarned,12} {"-",4} {r.floorRate,12} {"=",4} {incomeEarned - r.floorRate,12} {"  tax due for this income portion =",36} {finalComputedTax,15}  |");
+
+                        }
                     }
-                    //if(incomeEarned >= r.floorRate && incomeEarned < r.ceilingRate)
-                    //{
-                    //    incomeEarned *= r.floorRate;
-                    //    Console.WriteLine($"");
-                    //}
                 }
+
 
             }
         }
-        return incomeEarned;
+        if (verbose)
+        {
+            Console.WriteLine($"{"  --------------------------------------------------------------------------------------------------------"}");
+        }
+        return finalComputedTax;
     }
 }
 
@@ -202,6 +215,6 @@ class Program
     public static void Main()
     { 
         taxCalculator taxCalc = new taxCalculator();
-        Console.WriteLine("taxCalc = " + taxCalc.ComputeTaxFor("AL", 999));
+        Console.WriteLine("taxCalc = " + taxCalc.ComputeTaxFor("CA", 999999, true));
     }
 }
