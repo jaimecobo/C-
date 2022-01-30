@@ -158,9 +158,11 @@ class taxCalculator
     {
         if (verbose)
         {
-            Console.WriteLine($"  --------------------------------------------------------------------------------------------------------");
-            Console.WriteLine($" {"| Your total income is = ",25} {incomeEarned, 12}{"                                                    |", 68}");  
-            Console.WriteLine(" |--------------------------------------------------------------------------------------------------------|"); 
+            Console.WriteLine($"  ---------------------------------------------------------------------------------------------------------------------------");
+            Console.WriteLine($" {"| Your total income is = ",25} {incomeEarned, 12}{"                                                    |", 87}");  
+            Console.WriteLine(" |---------------------------------------------------------------------------------------------------------------------------|"); 
+            Console.WriteLine($"{" |       INCOME", 12} {" -", 4} {"FLOOR RATE", 12} {"=", 4} {"TAXABLE", 12} {"*", 3} {"  TAX RATE  ", 8} {"=", 1} {"    TAX DUE  |", 55}");
+            Console.WriteLine(" |---------------------------------------------------------------------------------------------------------------------------|");
         }
         decimal finalComputedTax = 0m;
 
@@ -181,7 +183,8 @@ class taxCalculator
                         finalComputedTax += (r.ceilingRate - r.floorRate) * r.taxRate;
                         if (verbose)
                         {
-                            Console.WriteLine($" | {r.ceilingRate, 12} {"-", 4} {r.floorRate, 12} {"=", 4} {r.ceilingRate - r.floorRate, 12} {"  tax due for this income portion =", 36} {finalComputedTax, 15}  |");
+                            Console.WriteLine($" | {r.ceilingRate, 12} {"-", 4} {r.floorRate, 12} {"=", 4} {r.ceilingRate - r.floorRate, 12} {" * ", 4} " +
+                                $"{r.taxRate, 8} {"=",4} {"  tax due for this income portion =", 36} {finalComputedTax, 15}  |");
                         }
                         continue;
                     }
@@ -191,7 +194,8 @@ class taxCalculator
                         finalComputedTax += (incomeEarned - r.floorRate) * r.taxRate;
                         if (verbose)
                         {
-                            Console.WriteLine($" | {incomeEarned,12} {"-",4} {r.floorRate,12} {"=",4} {incomeEarned - r.floorRate,12} {"  tax due for this income portion =",36} {finalComputedTax,15}  |");
+                            Console.WriteLine($" | {incomeEarned,12} {"-",4} {r.floorRate,12} {"=",4} {incomeEarned - r.floorRate,12} {" * ",4} " +
+                                $"{r.taxRate,8} {"=",4} {"  tax due for this income portion =",36} {finalComputedTax,15}  |");
 
                         }
                     }
@@ -202,7 +206,9 @@ class taxCalculator
         }
         if (verbose)
         {
-            Console.WriteLine($"{"  --------------------------------------------------------------------------------------------------------"}");
+            Console.WriteLine(" |---------------------------------------------------------------------------------------------------------------------------|");
+            Console.WriteLine($" {"|                                                                            TOTAL TAX DUE = ",85} {finalComputedTax,15:0000.00} {"              |",15}");
+            Console.WriteLine($"{"  ---------------------------------------------------------------------------------------------------------------------------"}");
         }
         return finalComputedTax;
     }
