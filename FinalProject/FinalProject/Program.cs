@@ -66,8 +66,8 @@ Dictionary<String, List<string>> dic = new Dictionary<string, List<string>>();
 */
 
 using System.Linq;
-//namespace Final_Project
-//{
+namespace FinalProject
+{
     public class TaxRecord
     {
         public string statecode;
@@ -125,7 +125,6 @@ using System.Linq;
         static Dictionary<string, List<TaxRecord>> taxRecords = new Dictionary<string, List<TaxRecord>>();
         static taxCalculator()
         {
-
             var reader = File.OpenText(@"taxtable.csv");
             string line;
             do
@@ -235,8 +234,10 @@ using System.Linq;
         public static void Main()
         {
             taxCalculator taxCalc = new taxCalculator();
-            Console.WriteLine("\n TOTAL TAX DUE = " + taxCalc.ComputeTaxFor("CA", 9, true) + "\n");
+            Console.WriteLine("\n TOTAL TAX DUE = " + taxCalc.ComputeTaxFor("CA", 999999999, true) + "\n");
+            Console.WriteLine("########################################################################################### \n");
+            Part2.Program.MainPart2();
         }
     }
 
-//}
+}
