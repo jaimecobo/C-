@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace Part2
 {
-
-
     class EmployeeRecord
     {
         // create an employee Record with public properties
@@ -23,8 +21,22 @@ namespace Part2
         public string StateCode { get; set; }
         public decimal HoursWorkedInTheYear { get; set; }
         public decimal HourlyRate { get; set; }
-        public decimal YearlyPay { get; }
-        public decimal EmployeesTotalTaxDue { get; }
+        public decimal YearlyPay { get { return HoursWorkedInTheYear * HourlyRate; } }
+        public decimal EmployeesTotalTaxDue { get
+
+            {
+                try
+                {
+                    return FinalProject.taxCalculator.ComputeTaxFor(StateCode, YearlyPay, false);
+                }
+                catch (Exception ex)
+                {
+                    //Console.WriteLine($"{ex.Message} ** Setting 'TOTAL TAX DUE' to -1.0 **");     //THIS LINE DISPLAYS ERROR WHEN STATE DOESN'T EXIST FROM employee.csv
+                    return -1.0m;
+                }
+                
+            } 
+        }
 
         //    provide a constructor that takes a csv and initializes the employeerecord
         //       do all error checking and throw appropriate exceptions
@@ -69,27 +81,29 @@ namespace Part2
 
         //    provide an additional READ ONLY property called  YearlyPay that will compute the total income for the employee
         //    by multiplying their hours worked by their hourly rate
-        public decimal YearlyPayMethod(decimal hoursWorked, decimal hourlyRate)
-        {
-            //this.YearlyPay = hoursWorked * hourlyRate;
-            return hoursWorked * hourlyRate;
-        }
+        ////public decimal YearlyPayMethod(decimal hoursWorked, decimal hourlyRate)
+        ////{
+        ////    //this.YearlyPay = hoursWorked * hourlyRate;
+        ////    return hoursWorked * hourlyRate;
+        ////}
 
 
         //    provide an additional READONLY property that will compute the total tax due by:
         //    calling into the taxcalculator providing the statecode and the yearly income computed in the YearlyPay property
-        public void EmployeesTotalTaxDueMethod(string name, string stateCode, decimal hrsWorked, decimal hrlyRate, bool verbose)
-        {
-            FinalProject.taxCalculator employeeTaxCalc = new  FinalProject.taxCalculator();
-            Console.WriteLine($"\n{name.ToUpper()}'S TOTAL DUE TAXES IN '{stateCode}':");
-            Console.WriteLine("TOTAL TAX DUE = " + employeeTaxCalc.ComputeTaxFor(stateCode, YearlyPayMethod(hrsWorked, hrlyRate), verbose) + "\n");
-        }
+        //public void EmployeesTotalTaxDueMethod(string name, string stateCode, decimal hrsWorked, decimal hrlyRate, bool verbose)
+        //{
+        //    //FinalProject.taxCalculator employeeTaxCalc = new  FinalProject.taxCalculator();
+        //    Console.WriteLine($"\n{name.ToUpper()}'S TOTAL DUE TAXES IN '{stateCode}':");
+        //    Console.WriteLine("TOTAL TAX DUE = " + employeeTaxCalc.ComputeTaxFor(stateCode, YearlyPayMethod(hrsWorked, hrlyRate), verbose) + "\n");
+        //}
 
 
         //    provide an override of toString to output the record : including the YearlyPay and the TaxDue
         public override string ToString()
         {
-            return $"{ID,4} {Name,20} {StateCode,4} {HoursWorkedInTheYear, 10} {HourlyRate, 10}";
+            
+            //return $"{ID,4} {Name,20} {StateCode,4} {HoursWorkedInTheYear, 10} {HourlyRate, 10} {EmployeesTotalTaxDue, 12:0.00}";
+            return $"{" |"} {ID,4} {Name,20} {StateCode,8} {HoursWorkedInTheYear,10} {HourlyRate,10} {YearlyPay,10} {EmployeesTotalTaxDue,12:0.00} {" |"}";
         }
     }
 
@@ -102,7 +116,7 @@ namespace Part2
         public static List<EmployeeRecord> employeesList = new List<EmployeeRecord>();
 
         // create a static constructor to load the list from the file
-        //   be sure to include try/catch to display messages
+        // be sure to include try/catch to display messages
         static EmployeesList()
         {
             var reader = File.OpenText(@"employees.csv");
@@ -113,9 +127,10 @@ namespace Part2
                 {
                     line = reader.ReadLine();
                     EmployeeRecord eRecord = new EmployeeRecord(line);
-                    Console.WriteLine(eRecord);
+                    //Console.WriteLine(eRecord);
                     employeesList.Add(eRecord);
-                    eRecord.EmployeesTotalTaxDueMethod(eRecord.Name, eRecord.StateCode, eRecord.HoursWorkedInTheYear, eRecord.HourlyRate, true);
+
+                    //eRecord.EmployeesTotalTaxDueMethod(eRecord.Name, eRecord.StateCode, eRecord.HoursWorkedInTheYear, eRecord.HourlyRate, true);
                 }
                 catch (Exception ex)
                 {
@@ -125,45 +140,42 @@ namespace Part2
             while (!reader.EndOfStream);
             reader.Close();
 
-                //try
-                //{
-                //    foreach (var empList in employeesList)
-                //    {
-                //        Console.WriteLine(empList);
-                //        empList.EmployeesTotalTaxDueMethod(empList.Name, empList.StateCode, empList.HoursWorkedInTheYear, empList.HourlyRate, true);
-                //    }
-                //}
-                //catch (Exception ex)
-                //{
-                //    Console.WriteLine(ex.ToString());
-                //}
-           
-            
-
+            //do
+            //{
+            //    try
+            //    {
+            //        foreach (var empList in employeesList)
+            //        {
+            //            Console.WriteLine(empList);
+            //            empList.EmployeesTotalTaxDueMethod(empList.Name, empList.StateCode, empList.HoursWorkedInTheYear, empList.HourlyRate, true);
+            //        }
+            //    }
+            //    catch (Exception ex)
+            //    {
+            //        Console.WriteLine(ex.ToString());
+            //    }
+            //}
+            //while (true);
+                
         }
     }
 
 
-
-
     class Program
     {
-
         // loop over all the employees in the EmployeeList and print them
         // If the ToString() in the employee record is correct, all the data will print out.
 
-        public static void MainPart2()
+        public static void Main()
         {
             try
             {
-                EmployeesList listOfEmplyees = new EmployeesList();
-                
+                EmployeesList listOfEmplyees = new EmployeesList();  
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
-
         }
     }
 }

@@ -31,34 +31,44 @@ namespace Part3
 {
     class Program
     {
-        public static void MainPart3()
+        public static void Main()
         {
-
             try
             {
-
                 IEnumerable<Part2.EmployeeRecord> FinalQuery = null;   // these default values set to null, as required by c#
                 IEnumerable<Part2.EmployeeRecord> ColumnQuery = null;  // these default values set to null, as required by c#
                 do
                 {
+                    
 
                     // this is the section to choose the sort column
-                    Console.Write("choose a column to sort by: (S)tate (N)ame (I)d (P)ay (T)ax or (E)xit:");
+                    Console.Write("Choose a column to sort by: (S)tate (N)ame (I)d (H)ours (P)ay (T)ax or (E)xit:");
                     string selection = Console.ReadLine();
                     // this switch selects the basic column and MAKEs R using Linq from the original Query Q
                     switch (selection.ToUpper())
                     {
-                        case ("S"): ColumnQuery = null; break;  // use linq logic here to assign the proper query
-                        // example
-                        //ColumnQuery = from e in EMPLOYEECOLLECTION orderby e.StateCode select e;  break;
-
-                        case ("N"): ColumnQuery = null; break;  // use linq logic here to assign the proper query
-                        // example
-                        //ColumnQuery = from e in EMPLOYEECOLLECTION orderby e.Name select e;  break;
-
-                        case ("I"): ColumnQuery = null; break;  // use linq logic here to assign the proper query
-                        case ("P"): ColumnQuery = null; break;  // use linq logic here to assign the proper query
-                        case ("T"): ColumnQuery = null; break;  // use linq logic here to assign the proper query
+                        case ("S"): ColumnQuery = null;  // use linq logic here to assign the proper query
+                                                         // example
+                                                         //ColumnQuery = from e in EMPLOYEECOLLECTION orderby e.StateCode select e;  break;
+                            ColumnQuery = from e in Part2.EmployeesList.employeesList.OrderBy(x => x.StateCode) select e;
+                            break;
+                        case ("N"): ColumnQuery = null;  // use linq logic here to assign the proper query
+                                                                // example
+                                                                //ColumnQuery = from e in EMPLOYEECOLLECTION orderby e.Name select e;  break;
+                            ColumnQuery = from e in Part2.EmployeesList.employeesList.OrderBy(x => x.Name) select e;
+                            break;
+                        case ("I"): ColumnQuery = null;   // use linq logic here to assign the proper query
+                            ColumnQuery = from e in Part2.EmployeesList.employeesList.OrderBy(x => x.ID) select e;
+                            break;
+                        case ("H"): ColumnQuery = null;   // use linq logic here to assign the proper query
+                            ColumnQuery = from e in Part2.EmployeesList.employeesList.OrderBy(x => x.HoursWorkedInTheYear) select e;
+                            break;
+                        case ("P"): ColumnQuery = null;   // use linq logic here to assign the proper query
+                            ColumnQuery = from e in Part2.EmployeesList.employeesList.OrderBy(x => x.YearlyPay) select e;
+                            break;
+                        case ("T"): ColumnQuery = null;   // use linq logic here to assign the proper query
+                            ColumnQuery = from e in Part2.EmployeesList.employeesList.OrderBy(x => x.EmployeesTotalTaxDue) select e;
+                            break;
                         case ("E"): Console.WriteLine("Goodbye..."); return;
                         default:
                             Console.WriteLine("Choice not recognized, try again...");
@@ -66,7 +76,7 @@ namespace Part3
                     }
                     do
                     {
-                        Console.Write("choose a direction to sort by: (A)scending (D)escending:");
+                        Console.Write("\n Choose a direction to sort by: (A)scending (D)escending:");
                         string order = Console.ReadLine();
                         switch (order.ToUpper())
                         {
@@ -83,6 +93,10 @@ namespace Part3
                                 // so this break gets out of the outer do so we can continue
                     } while (true);
 
+                    Console.WriteLine("\n  ----------------------------------------------------------------------------------- ");
+                    Console.WriteLine($"{" |    ", 4} {"    ", 20} {"     ", 8} {"  HOURS", 10}{"HOURLY", 10} {" YEARLY",10}{"  TOTAL", 12}{"     |"}");
+                    Console.WriteLine($"{" |   ID",4} {"NAME",20} {"  STATE",8} {"  WORKED",10}{"RATE  ",10} {" PAY  ",10} {"  TAX DUE ",12} {"  |"}");
+                    Console.WriteLine("  ----------------------------------------------------------------------------------- ");
                     foreach (Part2.EmployeeRecord r in FinalQuery)
                     {
                         try
@@ -95,7 +109,9 @@ namespace Part3
                             Console.WriteLine(ex.Message);
                         }
                     }
+                    Console.WriteLine("  ----------------------------------------------------------------------------------- ");
                 } while (true);
+
 
             }
 

@@ -120,7 +120,7 @@ namespace FinalProject
 
     }
 
-    class taxCalculator
+    public class taxCalculator
     {
         static Dictionary<string, List<TaxRecord>> taxRecords = new Dictionary<string, List<TaxRecord>>();
         static taxCalculator()
@@ -133,7 +133,7 @@ namespace FinalProject
                 {
                     line = reader.ReadLine();
                     TaxRecord r = new TaxRecord(line);
-                    Console.WriteLine(r);
+                    //Console.WriteLine(r);
                     if (taxRecords.ContainsKey(r.statecode))
                     {
                         taxRecords[r.statecode].Add(r);
@@ -155,7 +155,7 @@ namespace FinalProject
             reader.Close();
         }
 
-        public decimal ComputeTaxFor(string stateAbv, decimal incomeEarned, bool verbose)
+        static public decimal ComputeTaxFor(string stateAbv, decimal incomeEarned, bool verbose)
         {
             if (verbose)
             {
@@ -172,7 +172,7 @@ namespace FinalProject
             Console.WriteLine(" |--------------------------------------------------------------------------------------|");
         }
             decimal finalComputedTax = 0m;
-
+            
             foreach (string statecode in taxRecords.Keys)
             {
                 if (!taxRecords.ContainsKey(stateAbv))
@@ -233,10 +233,11 @@ namespace FinalProject
     {
         public static void Main()
         {
-            taxCalculator taxCalc = new taxCalculator();
-            Console.WriteLine("\n TOTAL TAX DUE = " + taxCalc.ComputeTaxFor("CA", 999999999, true) + "\n");
+            //taxCalculator taxCalc = new taxCalculator();
+            Console.WriteLine("\n TOTAL TAX DUE = " + taxCalculator.ComputeTaxFor("CA", 999999999, true) + "\n"); ;
             Console.WriteLine("########################################################################################### \n");
-            Part2.Program.MainPart2();
+            Part3.Program.Main();
+           
         }
     }
 
