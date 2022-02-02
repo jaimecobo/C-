@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\bin\Debug\net6.0\LambdaTesting.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\bin\Debug\net6.0\LambdaTesting.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\bin\Debug\net6.0\LambdaTesting.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\bin\Debug\net6.0\LambdaTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\bin\Debug\net6.0\ref\LambdaTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\bin\Debug\net6.0\LambdaTesting.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\ref\LambdaTesting.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\LambdaTesting\LambdaTesting\obj\Debug\net6.0\LambdaTesting.genruntimeconfig.cache
