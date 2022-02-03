@@ -1,0 +1,15 @@
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.csproj.AssemblyReference.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.AssemblyInfoInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.AssemblyInfo.cs
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.csproj.CoreCompileInputs.cache
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\bin\Debug\net6.0\ManagingProjectsHandsOnPractice.exe
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\bin\Debug\net6.0\ManagingProjectsHandsOnPractice.deps.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\bin\Debug\net6.0\ManagingProjectsHandsOnPractice.runtimeconfig.json
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\bin\Debug\net6.0\ManagingProjectsHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\bin\Debug\net6.0\ref\ManagingProjectsHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\bin\Debug\net6.0\ManagingProjectsHandsOnPractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ref\ManagingProjectsHandsOnPractice.dll
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.pdb
+C:\Users\jaime\Desktop\WOZ-U\C_Sharp\ManagingProjectsHandsOnPractice\ManagingProjectsHandsOnPractice\obj\Debug\net6.0\ManagingProjectsHandsOnPractice.genruntimeconfig.cache
